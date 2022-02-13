@@ -1,0 +1,14 @@
+
+
+
+
+Elastic App Search
+https://www.elastic.co/jp/app-search/
+
+
+Elasticsearch と python と Flask で Webアプリ(?)化してみる
+https://konchangakita.hatenablog.com/entry/2020/07/17/220000
+
+
+Elasticsearchを使用してレシピ検索アプリ
+https://qiita.com/koriyama/items/70edc8c8fc43fc92a8c5
