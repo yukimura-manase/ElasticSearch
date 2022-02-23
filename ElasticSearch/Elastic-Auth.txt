@@ -1,0 +1,11 @@
+
+
+
+
+Elasticsearchの“認証”と“認可”を徹底解説
+https://www.elastic.co/jp/blog/demystifying-authentication-and-authorization-in-elasticsearch
+
+
+
+
+
